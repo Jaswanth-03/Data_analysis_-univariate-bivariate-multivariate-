@@ -4,15 +4,16 @@ This repository contains a collection of Jupyter Notebooks and Markdown files co
 
 ## Markdown Files
 
-- [Bivariate and Multivariate Analysis on Categorical Columns](Bivariate and Multivariate Analysis on Categorical Columns.md): Covers bivariate and multivariate analysis techniques for datasets with categorical columns.
+- [Bivariate and Multivariate Analysis on Categorical Columns](Bivariate_and_Multivariate_Analysis_on_Categorical_Columns.md): Covers bivariate and multivariate analysis techniques for datasets with categorical columns.
 
-- [Bivariate and Multivariate Analysis on Numerical Column](Bivariate and Multivariate Analysis on Numerical Column.md): Covers bivariate and multivariate analysis techniques for datasets with numerical columns.
+- [Bivariate and Multivariate Analysis on Numerical Column](Bivariate_and_Multivariate_Analysis_on_Numerical_Column.md): Covers bivariate and multivariate analysis techniques for datasets with numerical columns.
 
-- [Multivariate Statistical Analysis](Multivariate Statistical Analysis.md): Discusses various multivariate statistical analysis techniques.
+- [Multivariate Statistical Analysis](Multivariate_Statistical_Analysis.md): Discusses various multivariate statistical analysis techniques.
 
-- [Univariate Analysis on Numerical Column](Univariate Analysis on Numerical Column.md): Provides univariate analysis methods for numerical columns.
+- [Univariate Analysis on Numerical Column](Univariate_Analysis_on_Numerical_Column.md): Provides univariate analysis methods for numerical columns.
 
-- [Univariate Analysis on Numerical Column](univariate analysis for categorical column.md): Provides univariate analysis methods for categorical columns.
+- [Univariate Analysis on Categorical Column](Univariate_Analysis_on_Categorical_Column.md): Provides univariate analysis methods for Categorical columns.
+
 
 ## Jupyter Notebooks
 
